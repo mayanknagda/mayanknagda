@@ -2,7 +2,7 @@
 - 👀 I’m interested in NLP, CV, Data Mining Topics
 - 🌱 I’m currently learning Probabilistic ML
 - 💞️ I’m looking to collaborate on NLP competitions
-- 📫 How to reach me nagdamayank05@gmail.com
+- 📫 How to reach me- nagdamayank05@gmail.com
 
 <!---
 mayanknagda/mayanknagda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
