@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mayank Nagda
 - 👀 I’m interested in NLP, CV, Data Mining Topics
 - 🌱 I’m currently learning Probabilistic ML
-- 💞️ I’m looking to collaborate on NLP competitions
+- 💞️ I’m looking to collaborate on NLP competitions (Kaggle)
 - 📫 How to reach me- nagdamayank05@gmail.com
 
 <!---
